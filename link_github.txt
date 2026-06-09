@@ -1,0 +1,5 @@
+-- Repo
+https://github.com/pulseroute-gs/gs-frontend-design
+
+-- Deploy
+https://pulseroute-gs.github.io/gs-frontend-design/
